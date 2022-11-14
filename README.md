@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vishwajith</h1>
+<h1 align="center">Hi 👋, I'm Shirish</h1>
 <h3 align="center">A passionate CYBER-SEC student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=root-cyborg127&label=Profile%20views&color=0e75b6&style=flat" alt="root-cyborg127" /> </p>
 
-- 🔭 I’m currently working on <a href="https://tryhackme.com/p/rootATTICUS" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"  height="70" width="70" />               *THM*</a>
+- 🔭 I’m currently working on <a href="" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg"  height="70" width="70" />               *THM*</a>
 
 - 🌱 I’m currently learning <a href="https://www.python.org/" target="blank"><img align="center" src="https://assets.tryhackme.com/img/modules/scripting-for-pentesters.png"  height="60" width="60" />              *PYTHON*</a>   
 
-- 👯 I’m looking to collaborate on *python tools*
+- 👯 I’m looking to collaborate on *coding*
 
 - ⚡ Fun fact *If I could have any superpower, it would be my PC and internet*
 
@@ -38,15 +38,6 @@
 
 
 
----
- <a href="https://www.youtube.com/channel/UCGruYFu0xzUYmfvy4ydjGHQ" >
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCGruYFu0xzUYmfvy4ydjGHQ&key=AIzaSyANbmZXQbNYHdth1ZyobBK091q8tOw9Av4"/>
-</a>                       <br>   
-
-<br>
-<a href="https://www.youtube.com/channel/UCGruYFu0xzUYmfvy4ydjGHQ"  >
-              <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCGruYFu0xzUYmfvy4ydjGHQ&key=AIzaSyANbmZXQbNYHdth1ZyobBK091q8tOw9Av4"/>
-</a> </pre>
 
 
 ---
@@ -54,4 +45,4 @@
 
 
 
-![Vishwajith's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-cyborg127&theme=ocean_dark&show_icons=true)
+![Shirish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirish0986&theme=ocean_dark&show_icons=true)
