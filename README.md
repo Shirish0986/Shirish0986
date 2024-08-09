@@ -2,8 +2,9 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Shirish%F0%9F%91%8B;Let's+Connect!"/>
 </div>
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shirishsingh0986/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shirish-singh/)
+[![Youtube](https://skillicons.dev/icons?i=linkedin)](https://www.youtube.com/@DIGITALCRUNCH)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shirishsingh0986/)
 ![border-seperator](assets/borderseparator.gif) 
   
 ![](https://komarev.com/ghpvc/?username=Shirish0986)
