@@ -3,7 +3,7 @@
 </div>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shirish-singh/)
-[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@DIGITALCRUNCH)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DIGITALCRUNCH)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shirishsingh0986/)
 ![border-seperator](assets/borderseparator.gif) 
   
