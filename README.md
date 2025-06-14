@@ -22,7 +22,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 	<td><strong>Languages</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,express,firebase,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,bootstrap,express,mongodb" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=java,cpp&theme=dark"></td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=linux,docker,kubernetes,azure,netlify&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=linux,netlify&theme=dark"></td>
 	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,githubactions&theme=dark"></td>
 </tr>
 </table>
